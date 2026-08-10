@@ -1,0 +1,13 @@
+# Icarus Verilog / simulation outputs
+*.vcd
+*.fst
+*.lxt
+*.out
+
+# GTKWave session files
+*.gtkw
+
+# Temporary files
+*.tmp
+*.swp
+*~
